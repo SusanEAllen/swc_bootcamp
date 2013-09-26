@@ -1,0 +1,33 @@
+    1  python swc-installation-test-2.py 
+    2  ls
+    3  ls -ltr
+    4  ipython --version
+    5  conda update conda
+    6  ipython --version
+    7  conda update anaconda
+    8  ipython
+    9  conda update ipython
+   10  ipython notebook
+   11  mkdir Notebooks
+   12  cd Notebooks/
+   13  ipython notebook
+   14  bash Anaconda-
+   15  bash Anaconda-1.6.1-MacOSX-x86_64.sh 
+   16  python swc-installation-test-1.py 
+   17  python swc-installation-test-2.py 
+   18  whoami
+   19  pwd
+   20  mkdir bootcamp_ubc
+   21  ls
+   22  cd bootcamp_ubc/pwd
+   23  cd bootcamp_ubc/
+   24  pwd
+   25  ls
+   26  cd /Users/emmadalgleish/
+   27  cd bootcamp_ubc/
+   28  cd ..
+   29  cd bootcamp_ubc/
+   30  nano thesis.txt
+   31  history
+   32  pwd
+   33  history > stuff
